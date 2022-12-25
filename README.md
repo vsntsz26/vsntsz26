@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+dos+Santos;I'm+21+years+old;I'm+from+Brazil;Im+studying+Analysis+and+Systems+Development;Be+Welcome!)](https://git.io/typing-svg)
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsntsz26&layout=compact&hide_border=true&title_color=ff91a4&text_color=4682B4&bg_color=0d1117" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsntsz26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> 
 <a href="https://instagram.com/v_sntsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
